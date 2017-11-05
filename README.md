@@ -26,4 +26,8 @@ Software:<br />
 <br />
 Tips/Hints:<br />
 <br />
-* With a bigger nozzle you have to increase the temperature and/or slow down the print speed.<br />
+* With a bigger nozzle you have to increase the temperature (e.g. +30°C) and/or slow down the print speed (e.g. -10mm/s).<br />
+* PETG settings: 250°C, 80°C, 50mm/s, Retraction 2mm + 40mm/s, Extrusion Multiplier <1.0 and >0.9<br />
+* Meshmixer has tree supports<br />
+* Use Slic3r skirt option as a shield while printing with several hot ends (loops min. 3 recommended)<br />
+* A brim ist always a good choice for better adhesion and hairspray makes it perfect<br />
