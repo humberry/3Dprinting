@@ -23,3 +23,7 @@ Software:<br />
 * Repetier (control your printer)<br />
 * Slic3r (convert your 3d model into printer g-code)<br />
 * ...<br />
+<br />
+Tips/Hints:<br />
+<br />
+* With a bigger nozzle you have to increase the temperature and/or slow down the print speed.<br />
