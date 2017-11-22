@@ -31,3 +31,9 @@ Tips/Hints:<br />
 * Meshmixer has tree supports<br />
 * Use Slic3r skirt option as a shield while printing with several hot ends (loops min. 3 recommended)<br />
 * A brim ist always a good choice for better adhesion and hairspray makes it perfect<br />
+<br />
+Calibration:<br />
+<br />
+* Stepper motor current (motor/driver) / movement (https://www.prusaprinters.org/calculator/)<br />
+* PID tuning (https://www.youtube.com/watch?v=APzJfYAgFkQ)<br />
+* Bed leveling (https://www.youtube.com/watch?v=_BuuGswqWWE)<br />
