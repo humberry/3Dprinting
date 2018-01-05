@@ -40,10 +40,10 @@ Calibration:<br />
 <br />
 Blender Settings:<br />
 <br />
-* Properties => Scene => Units => Length: Metric, Angle: Degrees, Unit Scale: 0.001
-* File => User Preferences => 
-  Interface: "Rotate Around Selection", "Zoom To Mouse Position"
-  Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
-  System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)
-  => Save User Settings
-<br />
+* Properties => Scene => Units => Length: Metric, Angle: Degrees, Unit Scale: 0.001<br />
+* File => User Preferences => <br />
+  Interface: "Rotate Around Selection", "Zoom To Mouse Position"<br />
+  Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"<br />
+  System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)<br />
+  => Save User Settings<br />
+ <br />
