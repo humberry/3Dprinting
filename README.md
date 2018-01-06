@@ -43,7 +43,7 @@
 
 * Properties => Scene => Units => Length: Metric, Angle: Degrees, Unit Scale: 0.001
 * File => User Preferences => 
-  Interface: "Rotate Around Selection", "Zoom To Mouse Position"
-  Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
-  System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)
-  => Save User Settings
+  - Interface: "Rotate Around Selection", "Zoom To Mouse Position"
+  - Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
+  - System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)
+  - Save User Settings
