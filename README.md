@@ -1,6 +1,5 @@
 ##3D printing
-##===========
-
+<br />
 **Hardware:**<br />
 <br />
 * Controller / Board (e.g. MKS 1.x, Ramps, smoothieboard, ...)<br />
@@ -35,9 +34,9 @@
 <br />
 **Calibration:**<br />
 <br />
-* Stepper motor current (motor/driver) / movement (https://www.prusaprinters.org/calculator/)<br />
-* PID tuning (https://www.youtube.com/watch?v=APzJfYAgFkQ)<br />
-* Bed leveling (https://www.youtube.com/watch?v=_BuuGswqWWE)<br />
+* [Stepper motor current (motor/driver) / movement](https://www.prusaprinters.org/calculator/)<br />
+* [PID tuning](https://www.youtube.com/watch?v=APzJfYAgFkQ)<br />
+* [Bed leveling](https://www.youtube.com/watch?v=_BuuGswqWWE)<br />
 <br />
 <br />
 **Blender Settings:**<br />
