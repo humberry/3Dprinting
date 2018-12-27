@@ -35,7 +35,7 @@
 ****
 **Calibration:**
 
-* [Stepper motor current](https://www.pololu.com/blog/484/video-setting-the-current-limit-on-pololu-stepper-motor-driver-carriers)
+* [Stepper motor current (e.g. DRV8825)](https://www.pololu.com/blog/484/video-setting-the-current-limit-on-pololu-stepper-motor-driver-carriers)
 * [Stepper motor movement (steps/mm) / optimal layer height](https://www.prusaprinters.org/calculator/)
 * [PID tuning](https://www.youtube.com/watch?v=APzJfYAgFkQ)
 * [Bed leveling](https://www.youtube.com/watch?v=_BuuGswqWWE)
