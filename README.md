@@ -8,7 +8,8 @@
 * Hot end (nozzle size, filament size, full metal => max. temperature)
 * Heatbed (voltage 12V/24V/110V/230V => time to heat / max. temperature)
 * Power supply (w/o heat bed)
-* Temperature sensor
+* Temperature sensor (Thermistor, PT100 with amplifier, Thermocouple with amplifier)
+* Z axis (more than one => mechanical coupling)
 
 ****
 **Build guide:**
@@ -34,9 +35,11 @@
 ****
 **Calibration:**
 
-* [Stepper motor current (motor/driver) / movement](https://www.prusaprinters.org/calculator/)
+* [Stepper motor current](https://www.pololu.com/blog/484/video-setting-the-current-limit-on-pololu-stepper-motor-driver-carriers)
+* [Stepper motor movement (steps/mm) / optimal layer height](https://www.prusaprinters.org/calculator/)
 * [PID tuning](https://www.youtube.com/watch?v=APzJfYAgFkQ)
 * [Bed leveling](https://www.youtube.com/watch?v=_BuuGswqWWE)
+* Slicer adjustment (measure filament diameter)
 
 ****
 **Blender Settings:**
