@@ -50,3 +50,7 @@
   - Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
   - System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)
   - Save User Settings
+
+
+External links disclaimer:<br>
+I'm not responsible for the content of external websites.<br>
