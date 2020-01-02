@@ -42,14 +42,15 @@
 * Slicer adjustment (measure filament diameter)
 
 ****
-**Blender Settings:**
+**Blender 2.8x Settings:**
 
-* Properties => Scene => Units => Length: Metric, Angle: Degrees, Unit Scale: 0.001
-* File => User Preferences => 
-  - Interface: "Rotate Around Selection", "Zoom To Mouse Position"
+* Scene Properties => Units => Unit System: Metric, Unit Scale: 0.001, Rotation: Degrees
+* Edit => Preferences... => 
+  - Interface: "Splash Screen"
   - Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
-  - System: Cycles Compute Device: CUDA if available, Memory Cache Limit: 2048 (64bit)
-  - Save User Settings
+  - Navigation: "Orbit Around Selection", "Zoom To Mouse Position"
+  - System: Cycles Render Device: CUDA if available
+  - 3 Lines => Save Preferences
 
 
 External links disclaimer:<br>
