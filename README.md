@@ -44,7 +44,7 @@
 ****
 **Blender 2.8x Settings:**
 
-* Scene Properties => Units => Unit System: Metric, Unit Scale: 0.001, Rotation: Degrees
+* Scene Properties => Units => Unit System: Metric, Unit Scale: 1.0, Rotation: Degrees, Length: Millimeters
 * Edit => Preferences... => 
   - Interface: "Splash Screen"
   - Add-ons: "3D View: Measureit", "Mesh: 3D Print Toolbox", "Mesh: LoopTools"
