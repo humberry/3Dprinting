@@ -35,3 +35,4 @@ For a start I would recommend a fully assembled device or at least a partially a
   - In Edit Mode > N > Item > Transform > Vertices: Global
   - N > 3D-Print > Analyze > Check All
   - N > 3D-Print > Clean Up > Make Manifold
+  - File > Defaults > Save Startup File
